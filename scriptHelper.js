@@ -21,7 +21,7 @@ function validateInput(testInput) {
 }
 
 function formSubmission(document, list, pilot, copilot, fuelLevel, cargoLevel) {
-   
+    // document.getElementById("launchStatus").innerHTML = `...`;
 }
 
 async function myFetch() {
